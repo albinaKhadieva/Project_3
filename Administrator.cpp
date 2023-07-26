@@ -3,6 +3,8 @@
 #include "./include/Modul.h"
 
 
+// Ich teste das
+
 // Methode zum Setzen des "rechte"-Datenmembers auf den übergebenen Wert "rechte".
 void Administrator::setRechte (bool rechte)
 {
