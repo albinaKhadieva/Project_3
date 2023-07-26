@@ -1,0 +1,40 @@
+JAS1 Certified JavaScript Developer: JavaScript Grundlagen
+10
+JAS2 Certified JavaScript Developer: JavaScript DOM
+9
+JAS3 Certified JavaScript Developer: Node.js, Express & Websockets
+10
+JAS4 Certified JavaScript Developer: Testdriven Development - TDD, Einstieg in React
+8
+PHPA Objektorientierte Programmierung mit PHP: Grundlagen der PHP-Programmierung
+10
+PHPB Objektorientierte Programmierung mit PHP: Webentwicklung mit PHP
+9
+PHPC Objektorientierte Programmierung mit PHP: PHP & Datenbanken
+10
+PHPD Objektorientierte Programmierung mit PHP: Fremdformate, Administration und Sicherheit mit PHP
+10
+PHPE Objektorientierte Programmierung mit PHP: PHP-Fallstudie
+9
+ZEND Zend-PHP-Zertifizierung
+8
+JAV1 Java Plattform und Generics
+8
+JAV2 Datentypen, Typisierung, Variablen
+10
+JAV3 Java - Klassen, Objekte und Exceptions
+10
+JAV4 Vorbereitung auf die OCA-Zertifizierung
+9
+CPP1 Programmieren mit C++ - Grundlagen
+10
+CPP2 Programmieren mit C++ - Aufbaukurs
+10
+CPP3 Programmieren mit C++ - GUI-Programmierung
+10
+CPP4 Programmieren mit C++ - Ereignisbasierter Programmablauf
+9
+XHCS Webdesign mit HTML5
+10
+REAC React
+9
