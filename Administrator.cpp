@@ -106,5 +106,6 @@ bool Administrator::einloggen(string param1, string param2)
             return rechte;
         }
     }
+    return rechte;
 }
 
